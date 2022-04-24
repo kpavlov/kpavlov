@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kpavlov/kpavlov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+```kotlin
+val me = developer {
+    about {
+        name = "Konstantin Pavlov"
+        company = Twilio
+        role = "Staff Software Engineer"
+    }
+    tech("Kotlin", "Java", "Spring")
+    links {
+        twitter = "@k_pavlov"
+        linkedin = "kpavlov"
+    }
+}
+```
