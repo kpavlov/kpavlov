@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 val me = developer {
     about {
         name = "Konstantin Pavlov"
-        company = Twilio
+        company = "Twilio"
         role = "Staff Software Engineer"
     }
     tech("Kotlin", "Java", "Spring")
