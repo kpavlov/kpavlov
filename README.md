@@ -23,8 +23,8 @@ val me = developer {
     }
     tech("Kotlin", "Java", "Spring")
     links {
-        twitter = "@k_pavlov"
-        blog = "kpavlov.me"
+        linkedin = "https://linkedin.com/in/kpavlov"
+        blog = "https://kpavlov.me"
     }
 }
 ```
