@@ -21,7 +21,7 @@ val me = developer {
         company = "Twilio"
         role = "Staff Software Engineer"
     }
-    tech("Kotlin", "Java", "Spring")
+    tech("Kotlin", "Java", "Spring", "TypeScript", "SwiftUI")
     links {
         linkedin = "https://linkedin.com/in/kpavlov"
         blog = "https://kpavlov.me"
