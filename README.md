@@ -25,7 +25,7 @@ val me = developer {
     links {
         linkedin = "https://linkedin.com/in/kpavlov"
         blog = "https://kpavlov.me"
-        email = "mail@kpavlov.me"
+        email = "mailto:mail@kpavlov.me"
     }
 }
 ```
