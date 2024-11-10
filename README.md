@@ -29,3 +29,12 @@ val me = developer {
     }
 }
 ```
+
+![Konstantin Pavlov's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpavlov&show_icons=true&count_private=false&include_all_commits=true&&show_icons=true&theme=transparent)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpavlov&theme=transparent) <br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kpavlov&hide_border=false&theme=transparent)<br/>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kpavlov&theme=transparent) <br>
