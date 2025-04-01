@@ -29,3 +29,5 @@ val me = developer {
     }
 }
 ```
+![Konstantin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpavlov&show_icons=true&include_all_commits=true)
+
