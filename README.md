@@ -19,11 +19,11 @@ val me = developer {
 
 #### 👷 Check out what I'm currently working on
 
+- [kpavlov/langchain4j-kotlin](https://github.com/kpavlov/langchain4j-kotlin) - Kotlin extensons for LangChain4j (today)
 - [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - Mock HTTP/SSE and LLM servers, inspired by wiremock, but with response streaming and SSE (1 day ago)
 - [kpavlov/koog-sauce](https://github.com/kpavlov/koog-sauce) - The finishing touch to JetBrains Koog (2 days ago)
-- [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems (3 days ago)
 - [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain (3 days ago)
-- [kpavlov/simple-transaction-service](https://github.com/kpavlov/simple-transaction-service) - Simple RESTful​ ​API​ ​for​ ​money transfers​ ​between​ ​accounts (1 week ago)
+- [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
