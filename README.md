@@ -27,9 +27,9 @@ val me = developer {
 
 #### 🔭 Latest releases I've contributed to
 
+- [kpavlov/langchain4j-kotlin](https://github.com/kpavlov/langchain4j-kotlin) ([v0.3.0](https://github.com/kpavlov/langchain4j-kotlin/releases/tag/v0.3.0), today) - Kotlin extensons for LangChain4j
 - [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) ([v0.4.6](https://github.com/mokksy/ai-mocks/releases/tag/v0.4.6), 3 days ago) - Mock HTTP/SSE and LLM servers, inspired by wiremock, but with response streaming and SSE
 - [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.4.0](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.4.0), 3 days ago) - This extension enables developers to implement the MCP server features easily.
-- [JetBrains/koog](https://github.com/JetBrains/koog) ([0.3.0](https://github.com/JetBrains/koog/releases/tag/0.3.0), 5 days ago) - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
 
 #### 📜 My recent blog posts
 
