@@ -27,9 +27,9 @@ val me = developer {
 
 #### 🔭 Latest releases I've contributed to
 
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.1.0](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.1.0), today) - Quarkus Langchain4j extension
 - [kpavlov/langchain4j-kotlin](https://github.com/kpavlov/langchain4j-kotlin) ([v0.3.0](https://github.com/kpavlov/langchain4j-kotlin/releases/tag/v0.3.0), 2 days ago) - Kotlin extensons for LangChain4j
 - [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) ([v0.4.6](https://github.com/mokksy/ai-mocks/releases/tag/v0.4.6), 5 days ago) - Mock HTTP/SSE and LLM servers, inspired by wiremock, but with response streaming and SSE
-- [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.4.0](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.4.0), 5 days ago) - This extension enables developers to implement the MCP server features easily.
 
 #### 📜 My recent blog posts
 
