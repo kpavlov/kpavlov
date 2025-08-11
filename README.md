@@ -19,7 +19,7 @@ val me = developer {
 
 #### 👷 Check out what I'm currently working on
 
-- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain (3 days ago)
+- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain (4 days ago)
 - [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - Mock HTTP/SSE and LLM servers, inspired by wiremock, but with response streaming and SSE (1 week ago)
 - [kpavlov/langchain4j-kotlin](https://github.com/kpavlov/langchain4j-kotlin) - Kotlin extensons for LangChain4j (3 weeks ago)
 - [kpavlov/koog-sauce](https://github.com/kpavlov/koog-sauce) - The finishing touch to JetBrains Koog (3 weeks ago)
@@ -27,7 +27,7 @@ val me = developer {
 
 #### 🔭 Latest releases I've contributed to
 
-- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.3.0](https://github.com/langchain4j/langchain4j/releases/tag/1.3.0), 3 days ago) - Java version of LangChain
+- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.3.0](https://github.com/langchain4j/langchain4j/releases/tag/1.3.0), 4 days ago) - Java version of LangChain
 - [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.4.1](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.4.1), 1 week ago) - This extension enables developers to implement the MCP server features easily.
 - [ktorio/ktor](https://github.com/ktorio/ktor) ([3.2.3](https://github.com/ktorio/ktor/releases/tag/3.2.3), 1 week ago) - Framework for quickly creating connected applications in Kotlin with minimal effort
 
