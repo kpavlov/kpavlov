@@ -19,7 +19,7 @@ val me = developer {
 
 #### 👷 Check out what I'm currently working on
 
-- [kpavlov/koog-sauce](https://github.com/kpavlov/koog-sauce) - The finishing touch to JetBrains Koog (6 days ago)
+- [kpavlov/koog-sauce](https://github.com/kpavlov/koog-sauce) - The finishing touch to JetBrains Koog (1 week ago)
 - [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain (1 week ago)
 - [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - Mock HTTP/SSE and LLM servers, inspired by wiremock, but with response streaming and SSE (2 weeks ago)
 - [kpavlov/langchain4j-kotlin](https://github.com/kpavlov/langchain4j-kotlin) - Kotlin extensons for LangChain4j (1 month ago)
