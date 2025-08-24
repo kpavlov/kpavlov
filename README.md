@@ -19,7 +19,7 @@ val me = developer {
 
 #### 👷 Check out what I'm currently working on
 
-- [kpavlov/fixio](https://github.com/kpavlov/fixio) - FIX Protocol Support for Netty (1 day ago)
+- [kpavlov/fixio](https://github.com/kpavlov/fixio) - FIX Protocol Support for Netty (2 days ago)
 - [kpavlov/koog-sauce](https://github.com/kpavlov/koog-sauce) - The finishing touch to JetBrains Koog (1 week ago)
 - [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain (2 weeks ago)
 - [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - Mock HTTP/SSE and LLM servers, inspired by wiremock, but with response streaming and SSE (3 weeks ago)
