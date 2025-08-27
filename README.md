@@ -19,15 +19,15 @@ val me = developer {
 
 #### 👷 Check out what I'm currently working on
 
-- [kpavlov/fixio](https://github.com/kpavlov/fixio) - FIX Protocol Support for Netty (4 days ago)
-- [kpavlov/koog-sauce](https://github.com/kpavlov/koog-sauce) - The finishing touch to JetBrains Koog (1 week ago)
+- [kpavlov/fixio](https://github.com/kpavlov/fixio) - FIX Protocol Support for Netty (5 days ago)
+- [kpavlov/koog-sauce](https://github.com/kpavlov/koog-sauce) - The finishing touch to JetBrains Koog (2 weeks ago)
 - [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain (2 weeks ago)
 - [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - Mock HTTP/SSE and LLM servers, inspired by wiremock, but with response streaming and SSE (3 weeks ago)
 - [kpavlov/langchain4j-kotlin](https://github.com/kpavlov/langchain4j-kotlin) - Kotlin extensons for LangChain4j (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.1.1](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.1.1), 2 weeks ago) - Quarkus Langchain4j extension
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.1.2](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.1.2), 1 day ago) - Quarkus Langchain4j extension
 - [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.3.0](https://github.com/langchain4j/langchain4j/releases/tag/1.3.0), 2 weeks ago) - Java version of LangChain
 - [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.4.1](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.4.1), 3 weeks ago) - This extension enables developers to implement the MCP server features easily.
 
