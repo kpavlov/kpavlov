@@ -19,17 +19,17 @@ val me = developer {
 
 #### 👷 Check out what I'm currently working on
 
-- [kpavlov/koog-sauce](https://github.com/kpavlov/koog-sauce) - The finishing touch to JetBrains Koog (today)
 - [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems (1 day ago)
-- [kpavlov/fixio](https://github.com/kpavlov/fixio) - FIX Protocol Support for Netty (6 days ago)
-- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain (3 weeks ago)
-- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - Mock HTTP/SSE and LLM servers, inspired by wiremock, but with response streaming and SSE (3 weeks ago)
+- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain (1 day ago)
+- [kpavlov/koog-sauce](https://github.com/kpavlov/koog-sauce) - The finishing touch to JetBrains Koog (1 day ago)
+- [kpavlov/fixio](https://github.com/kpavlov/fixio) - FIX Protocol Support for Netty (1 week ago)
+- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - Mock HTTP/SSE and LLM servers, inspired by wiremock, but with response streaming and SSE (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [JetBrains/koog](https://github.com/JetBrains/koog) ([0.4.0](https://github.com/JetBrains/koog/releases/tag/0.4.0), 1 day ago) - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
-- [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.5.0](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.5.0), 1 day ago) - This extension enables developers to implement the MCP server features easily.
-- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.1.2](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.1.2), 2 days ago) - Quarkus Langchain4j extension
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.1.3](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.1.3), 1 day ago) - Quarkus Langchain4j extension
+- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.4.0](https://github.com/langchain4j/langchain4j/releases/tag/1.4.0), 1 day ago) - Java version of LangChain
+- [JetBrains/koog](https://github.com/JetBrains/koog) ([0.4.1](https://github.com/JetBrains/koog/releases/tag/0.4.1), 1 day ago) - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
 
 #### 📜 My recent blog posts
 
