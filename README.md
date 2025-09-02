@@ -5,10 +5,10 @@
 val me = developer {
     about {
         name = "Konstantin Pavlov"
-        company = "Twilio"
-        role = "Staff Software Engineer"
+        company = "JetBrains"
+        role = "Technical Lead"
     }
-    tech("Kotlin", "Java", "Spring", "Swift", "AI", "iOS")
+    tech("Kotlin", "Java", "Spring", "AI", "Koog", "Swift", "iOS")
     links {
         linkedin = "https://linkedin.com/in/kpavlov"
         blog = "https://kpavlov.me"
