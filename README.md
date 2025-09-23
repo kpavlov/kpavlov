@@ -19,17 +19,17 @@ val me = developer {
 
 #### 👷 Check out what I'm currently working on
 
-- [kpavlov/koog-spring-boot-assistant](https://github.com/kpavlov/koog-spring-boot-assistant) -  (1 day ago)
-- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - Mock HTTP/SSE and LLM servers, inspired by wiremock, but with response streaming and SSE (1 day ago)
-- [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems (3 days ago)
-- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (6 days ago)
+- [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems (1 day ago)
+- [kpavlov/koog-spring-boot-assistant](https://github.com/kpavlov/koog-spring-boot-assistant) -  (2 days ago)
+- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - Mock HTTP/SSE and LLM servers, inspired by wiremock, but with response streaming and SSE (2 days ago)
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (1 week ago)
 - [kpavlov/koog-sauce](https://github.com/kpavlov/koog-sauce) - The finishing touch to JetBrains Koog (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) ([v0.5.0-Beta02](https://github.com/mokksy/ai-mocks/releases/tag/v0.5.0-Beta02), 1 day ago) - Mock HTTP/SSE and LLM servers, inspired by wiremock, but with response streaming and SSE
-- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.7.2](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.7.2), 3 days ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
-- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.2.0.CR2](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.2.0.CR2), 6 days ago) - Quarkus Langchain4j extension
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.2.0.CR3](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.2.0.CR3), 1 day ago) - Quarkus Langchain4j extension
+- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) ([v0.5.0-Beta02](https://github.com/mokksy/ai-mocks/releases/tag/v0.5.0-Beta02), 2 days ago) - Mock HTTP/SSE and LLM servers, inspired by wiremock, but with response streaming and SSE
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.7.2](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.7.2), 4 days ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
 
 #### 📜 My recent blog posts
 
