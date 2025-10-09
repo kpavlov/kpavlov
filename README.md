@@ -20,21 +20,21 @@ val me = developer {
 #### 👷 Check out what I'm currently working on
 
 - [kpavlov/koog-spring-boot-assistant](https://github.com/kpavlov/koog-spring-boot-assistant) - Kotlin &#43; SpringBoot &#43; Koog &#43; Promptfoo example (1 day ago)
-- [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems (3 days ago)
-- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - Mock HTTP/SSE and LLM servers, inspired by wiremock, but with response streaming and SSE (5 days ago)
+- [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems (4 days ago)
+- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - Mock HTTP/SSE and LLM servers, inspired by wiremock, but with response streaming and SSE (6 days ago)
 - [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (1 week ago)
 - [kpavlov/koog-sauce](https://github.com/kpavlov/koog-sauce) - The finishing touch to JetBrains Koog (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.6.1](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.6.1), 2 days ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
-- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) ([v0.5.0](https://github.com/mokksy/ai-mocks/releases/tag/v0.5.0), 5 days ago) - Mock HTTP/SSE and LLM servers, inspired by wiremock, but with response streaming and SSE
-- [JetBrains/koog](https://github.com/JetBrains/koog) ([0.5.0](https://github.com/JetBrains/koog/releases/tag/0.5.0), 6 days ago) - Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
+- [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.6.1](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.6.1), 1 day ago) - This extension enables developers to implement the MCP server features easily.
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.6.1](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.6.1), 3 days ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
+- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) ([v0.5.0](https://github.com/mokksy/ai-mocks/releases/tag/v0.5.0), 6 days ago) - Mock HTTP/SSE and LLM servers, inspired by wiremock, but with response streaming and SSE
 
 #### 📜 My recent blog posts
 
 - [The Cookie Story: When Build Failures Became Sweet Accountability](https://kpavlov.me/blog/the-cookie-story/) (2 months ago)
 - [LLM Evaluation Testing with promptfoo: A Practical Guide](https://kpavlov.me/blog/llm-evaluation-testing-with-promptfoo-a-practical-guide/) (4 months ago)
-- [Contract-First vs. Code-First Development: Why API Contracts Matter From Day One](https://kpavlov.me/blog/contract-first-vs-contract-last/) (5 months ago)
+- [Contract-First vs. Code-First Development: Why API Contracts Matter From Day One](https://kpavlov.me/blog/contract-first-vs-contract-last/) (6 months ago)
 
 ![Konstantin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpavlov&show_icons=true&include_all_commits=true)
