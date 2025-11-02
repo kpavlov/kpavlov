@@ -27,8 +27,8 @@ val me = developer {
 
 #### 🔭 Latest releases I've contributed to
 
-- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.4.0.CR1](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.4.0.CR1), 2 days ago) - Quarkus Langchain4j extension
-- [JetBrains/koog](https://github.com/JetBrains/koog) ([0.5.2](https://github.com/JetBrains/koog/releases/tag/0.5.2), 3 days ago) - Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.4.0.CR1](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.4.0.CR1), 3 days ago) - Quarkus Langchain4j extension
+- [JetBrains/koog](https://github.com/JetBrains/koog) ([0.5.2](https://github.com/JetBrains/koog/releases/tag/0.5.2), 4 days ago) - Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
 - [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.8.0](https://github.com/langchain4j/langchain4j/releases/tag/1.8.0), 1 week ago) - LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.
 
 #### 📜 My recent blog posts
