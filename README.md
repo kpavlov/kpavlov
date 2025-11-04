@@ -27,9 +27,9 @@ val me = developer {
 
 #### 🔭 Latest releases I've contributed to
 
-- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.4.0.CR1](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.4.0.CR1), 4 days ago) - Quarkus Langchain4j extension
-- [JetBrains/koog](https://github.com/JetBrains/koog) ([0.5.2](https://github.com/JetBrains/koog/releases/tag/0.5.2), 5 days ago) - Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
-- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.8.0](https://github.com/langchain4j/langchain4j/releases/tag/1.8.0), 1 week ago) - LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.
+- [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.7.1](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.7.1), 1 day ago) - This extension enables developers to implement the MCP server features easily.
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.4.0.CR2](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.4.0.CR2), 1 day ago) - Quarkus Langchain4j extension
+- [JetBrains/koog](https://github.com/JetBrains/koog) ([0.5.2](https://github.com/JetBrains/koog/releases/tag/0.5.2), 6 days ago) - Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
 
 #### 📜 My recent blog posts
 
