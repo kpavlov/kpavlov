@@ -19,7 +19,7 @@ val me = developer {
 
 #### 👷 Check out what I'm currently working on
 
-- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (2 days ago)
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (3 days ago)
 - [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems (3 weeks ago)
 - [kpavlov/koog-spring-boot-assistant](https://github.com/kpavlov/koog-spring-boot-assistant) - Kotlin &#43; SpringBoot &#43; Koog &#43; Promptfoo example (3 weeks ago)
 - [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - Mock HTTP/SSE and LLM APIs (service virtualization). Inspired by Wiremock, it supports streaming / SSE (3 weeks ago)
@@ -27,9 +27,9 @@ val me = developer {
 
 #### 🔭 Latest releases I've contributed to
 
-- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.7.6](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.7.6), 2 days ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
-- [ktorio/ktor](https://github.com/ktorio/ktor) ([3.3.2](https://github.com/ktorio/ktor/releases/tag/3.3.2), 4 days ago) - Framework for quickly creating connected applications in Kotlin with minimal effort
-- [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.7.1](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.7.1), 6 days ago) - This extension enables developers to implement the MCP server features easily.
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.7.6](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.7.6), 3 days ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
+- [ktorio/ktor](https://github.com/ktorio/ktor) ([3.3.2](https://github.com/ktorio/ktor/releases/tag/3.3.2), 5 days ago) - Framework for quickly creating connected applications in Kotlin with minimal effort
+- [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.7.1](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.7.1), 1 week ago) - This extension enables developers to implement the MCP server features easily.
 
 #### 📜 My recent blog posts
 
