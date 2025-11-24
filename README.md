@@ -19,17 +19,17 @@ val me = developer {
 
 #### 👷 Check out what I'm currently working on
 
-- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (2 days ago)
-- [kpavlov/fixio](https://github.com/kpavlov/fixio) - FIX Protocol Support for Netty (2 days ago)
-- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - AI-Mocks (by Mokksy) is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support. (2 days ago)
-- [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems (5 days ago)
-- [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) - Kotlin Symbol Processor (KSP) Maven Plugin (1 week ago)
+- [kpavlov/koog-spring-boot-assistant](https://github.com/kpavlov/koog-spring-boot-assistant) - Kotlin &#43; SpringBoot &#43; Koog &#43; Promptfoo example (1 day ago)
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (3 days ago)
+- [kpavlov/fixio](https://github.com/kpavlov/fixio) - FIX Protocol Support for Netty (3 days ago)
+- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - AI-Mocks (by Mokksy) is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support. (3 days ago)
+- [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) ([v0.6.2](https://github.com/mokksy/ai-mocks/releases/tag/v0.6.2), 2 days ago) - AI-Mocks (by Mokksy) is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support.
-- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.8.0](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.8.0), 3 days ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
-- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.4.2](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.4.2), 3 days ago) - Quarkus Langchain4j extension
+- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) ([v0.6.2](https://github.com/mokksy/ai-mocks/releases/tag/v0.6.2), 3 days ago) - AI-Mocks (by Mokksy) is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support.
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.8.0](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.8.0), 4 days ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.4.2](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.4.2), 4 days ago) - Quarkus Langchain4j extension
 
 #### 📜 My recent blog posts
 
