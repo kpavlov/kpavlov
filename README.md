@@ -27,8 +27,8 @@ val me = developer {
 
 #### 🔭 Latest releases I've contributed to
 
-- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.5.0.CR1](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.5.0.CR1), 1 day ago) - Quarkus Langchain4j extension
-- [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.8.1](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.8.1), 6 days ago) - This extension enables developers to implement the MCP server features easily.
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.5.0.CR1](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.5.0.CR1), 2 days ago) - Quarkus Langchain4j extension
+- [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.8.1](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.8.1), 1 week ago) - This extension enables developers to implement the MCP server features easily.
 - [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.8.1](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.8.1), 1 week ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
 
 #### 📜 My recent blog posts
