@@ -19,15 +19,15 @@ val me = developer {
 
 #### 👷 Check out what I'm currently working on
 
-- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes at compile time and at runtime via reflection using Kotlin Symbol Processing (KSP) (1 day ago)
-- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (1 week ago)
+- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes at compile time and at runtime via reflection using Kotlin Symbol Processing (KSP) (2 days ago)
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (2 weeks ago)
 - [kpavlov/fixio](https://github.com/kpavlov/fixio) - FIX Protocol Support for Netty (2 weeks ago)
 - [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) - Kotlin Symbol Processor (KSP) Maven Plugin (3 weeks ago)
 - [kpavlov/koog-spring-boot-assistant](https://github.com/kpavlov/koog-spring-boot-assistant) - Kotlin &#43; SpringBoot &#43; Koog &#43; Promptfoo example (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.5.0.CR1](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.5.0.CR1), 6 days ago) - Quarkus Langchain4j extension
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.5.0.CR1](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.5.0.CR1), 1 week ago) - Quarkus Langchain4j extension
 - [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.8.1](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.8.1), 1 week ago) - This extension enables developers to implement the MCP server features easily.
 - [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.8.1](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.8.1), 2 weeks ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
 
