@@ -27,7 +27,7 @@ val me = developer {
 
 #### 🔭 Latest releases I've contributed to
 
-- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.2.3](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.2.3), 5 days ago) - Quarkus Langchain4j extension
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.2.3](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.2.3), 6 days ago) - Quarkus Langchain4j extension
 - [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) ([v0.2.0](https://github.com/kpavlov/ksp-maven-plugin/releases/tag/v0.2.0), 1 week ago) - Kotlin Symbol Processor (KSP) Maven Plugin
 - [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.10.0](https://github.com/langchain4j/langchain4j/releases/tag/1.10.0), 2 weeks ago) - LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.
 
