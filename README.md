@@ -20,16 +20,16 @@ val me = developer {
 #### 👷 Check out what I'm currently working on
 
 - [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (1 day ago)
-- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes at compile time and at runtime via reflection using Kotlin Symbol Processing (KSP) (2 days ago)
-- [json-schema-org/JSON-Schema-Test-Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) - A language agnostic test suite for the JSON Schema specifications (5 days ago)
+- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes at compile time and at runtime via reflection using Kotlin Symbol Processing (KSP) (3 days ago)
+- [json-schema-org/JSON-Schema-Test-Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) - A language agnostic test suite for the JSON Schema specifications (6 days ago)
 - [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - AI-Mocks is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support. (1 week ago)
 - [kpavlov/fixio](https://github.com/kpavlov/fixio) - FIX Protocol Support for Netty (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) ([v0.0.4](https://github.com/Kotlin/kotlinx-schema/releases/tag/v0.0.4), 4 days ago) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes at compile time and at runtime via reflection using Kotlin Symbol Processing (KSP)
-- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.5.0](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.5.0), 1 week ago) - Quarkus Langchain4j extension
-- [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) ([v0.2.0](https://github.com/kpavlov/ksp-maven-plugin/releases/tag/v0.2.0), 3 weeks ago) - Kotlin Symbol Processor (KSP) Maven Plugin
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.8.3](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.8.3), 1 day ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.6.0.CR1](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.6.0.CR1), 1 day ago) - Quarkus Langchain4j extension
+- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) ([v0.0.4](https://github.com/Kotlin/kotlinx-schema/releases/tag/v0.0.4), 5 days ago) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes at compile time and at runtime via reflection using Kotlin Symbol Processing (KSP)
 
 #### 📜 My recent blog posts
 
