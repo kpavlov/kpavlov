@@ -36,13 +36,12 @@ val me = developer {
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 3}}
+{{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://kpavlov.me/index.xml" 3}}
+{{range rss "https://kpavlov.me/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-![Konstantin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpavlov&show_icons=true&include_all_commits=true)
