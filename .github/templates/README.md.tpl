@@ -31,22 +31,22 @@ val me = developer {
 ```
 
 #### 🌱 Check out what I'm currently working on
-{{range recentContributions 5}}
+{{range recentContributions 7}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
+{{range recentReleases 7}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://kpavlov.me/index.xml" 5}}
+{{range rss "https://kpavlov.me/index.xml" 7}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 👯 Check out some of my recent followers
-{{range followers 5}}
+{{range followers 7}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
