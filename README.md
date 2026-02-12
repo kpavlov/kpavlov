@@ -17,7 +17,7 @@ val me = developer {
 }
 ```
 
-#### 👷 Check out what I'm currently working on
+#### 🌱 Check out what I'm currently working on
 
 - [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization. (today)
 - [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (1 day ago)
@@ -32,6 +32,11 @@ val me = developer {
 - [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.10.0](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.10.0), 2 days ago) - This extension enables developers to implement the MCP server features easily.
 - [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.11.0](https://github.com/langchain4j/langchain4j/releases/tag/1.11.0), 1 week ago) - LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.
 - [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) ([v0.3.0](https://github.com/kpavlov/ksp-maven-plugin/releases/tag/v0.3.0), 2 weeks ago) - Kotlin Symbol Processor (KSP) Maven Plugin
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.8.3](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.8.3), 3 weeks ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
+- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) ([v0.6.2](https://github.com/mokksy/ai-mocks/releases/tag/v0.6.2), 2 months ago) - AI-Mocks is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support.
+- [kpavlov/langchain4j-kotlin](https://github.com/kpavlov/langchain4j-kotlin) ([v0.3.0](https://github.com/kpavlov/langchain4j-kotlin/releases/tag/v0.3.0), 6 months ago) - Kotlin extensons for LangChain4j
+- [kpavlov/mock-statsd](https://github.com/kpavlov/mock-statsd) ([v0.6.0](https://github.com/kpavlov/mock-statsd/releases/tag/v0.6.0), 2 years ago) - Mock StatsD is a Kotlin/Java library for simplified testing and detailed verification of applications sending metrics to a StatsD server. With automated port management and seamless JUnit 5 integration, it ensures efficient and effective metrics testing for superior software reliability.
+- [json-schema-org/JSON-Schema-Test-Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) ([23.1.0](https://github.com/json-schema-org/JSON-Schema-Test-Suite/releases/tag/23.1.0), 2 years ago) - A language agnostic test suite for the JSON Schema specifications
 
 #### 📜 My recent blog posts
 
@@ -40,4 +45,12 @@ val me = developer {
 - [Weekend hack: Kotlin Symbol Processing Maven Plugin](https://kpavlov.me/blog/ksp-maven-plugin/) (2 months ago)
 - [The Cookie Story: When Build Failures Became Sweet Accountability](https://kpavlov.me/blog/the-cookie-story/) (6 months ago)
 - [LLM Evaluation Testing with promptfoo: A Practical Guide](https://kpavlov.me/blog/llm-evaluation-testing-with-promptfoo-a-practical-guide/) (8 months ago)
+
+#### 👯 Check out some of my recent followers
+
+- [adelburieva](https://github.com/adelburieva)
+- [bryanadenhq](https://github.com/bryanadenhq)
+- [ptitjes](https://github.com/ptitjes)
+- [SyamSundarKirubakaran](https://github.com/SyamSundarKirubakaran)
+- [karloti](https://github.com/karloti)
 
