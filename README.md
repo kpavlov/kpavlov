@@ -19,8 +19,8 @@ val me = developer {
 
 #### 🌱 Check out what I'm currently working on
 
-- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (1 day ago)
-- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization. (3 days ago)
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (2 days ago)
+- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization. (4 days ago)
 - [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - AI-Mocks is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support. (1 week ago)
 - [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) - Kotlin Symbol Processor (KSP) Maven Plugin (3 weeks ago)
 - [json-schema-org/JSON-Schema-Test-Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) - A language agnostic test suite for the JSON Schema specifications (1 month ago)
@@ -29,9 +29,9 @@ val me = developer {
 
 #### 🔭 Latest releases I've contributed to
 
-- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.7.2](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.7.2), 1 day ago) - Quarkus Langchain4j extension
-- [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.10.1](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.10.1), 2 days ago) - This extension enables developers to implement the MCP server features easily.
-- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.8.4](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.8.4), 2 days ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.7.2](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.7.2), 2 days ago) - Quarkus Langchain4j extension
+- [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.10.1](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.10.1), 3 days ago) - This extension enables developers to implement the MCP server features easily.
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.8.4](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.8.4), 3 days ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
 - [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) ([v0.3.1](https://github.com/Kotlin/kotlinx-schema/releases/tag/v0.3.1), 1 week ago) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization.
 - [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.11.0](https://github.com/langchain4j/langchain4j/releases/tag/1.11.0), 2 weeks ago) - LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.
 - [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) ([v0.3.0](https://github.com/kpavlov/ksp-maven-plugin/releases/tag/v0.3.0), 3 weeks ago) - Kotlin Symbol Processor (KSP) Maven Plugin
@@ -40,7 +40,7 @@ val me = developer {
 #### 📜 My recent blog posts
 
 - [Open Source Deserves Better Than &#39;Move Fast&#39;](https://kpavlov.me/blog/open-source-mindset/) (1 week ago)
-- [Introducing Kotlinx-schema: Generate JSON Schema from Kotlin Types and Functions](https://kpavlov.me/blog/kotlinx-schema/) (2 weeks ago)
+- [Introducing Kotlinx-schema: Generate JSON Schema from Kotlin Types and Functions](https://kpavlov.me/blog/kotlinx-schema/) (3 weeks ago)
 - [Weekend hack: Kotlin Symbol Processing Maven Plugin](https://kpavlov.me/blog/ksp-maven-plugin/) (3 months ago)
 - [The Cookie Story: When Build Failures Became Sweet Accountability](https://kpavlov.me/blog/the-cookie-story/) (7 months ago)
 - [LLM Evaluation Testing with promptfoo: A Practical Guide](https://kpavlov.me/blog/llm-evaluation-testing-with-promptfoo-a-practical-guide/) (8 months ago)
