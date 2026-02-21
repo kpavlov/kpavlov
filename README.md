@@ -19,22 +19,22 @@ val me = developer {
 
 #### 🌱 Check out what I'm currently working on
 
-- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (2 days ago)
-- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization. (4 days ago)
-- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - AI-Mocks is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support. (1 week ago)
-- [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) - Kotlin Symbol Processor (KSP) Maven Plugin (3 weeks ago)
+- [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) - Kotlin Symbol Processor (KSP) Maven Plugin (today)
+- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization. (1 day ago)
+- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - AI-Mocks is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support. (1 day ago)
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (3 days ago)
 - [json-schema-org/JSON-Schema-Test-Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) - A language agnostic test suite for the JSON Schema specifications (1 month ago)
 - [kpavlov/fixio](https://github.com/kpavlov/fixio) - FIX Protocol Support for Netty (1 month ago)
-- [kpavlov/koog-spring-boot-assistant](https://github.com/kpavlov/koog-spring-boot-assistant) - Kotlin &#43; SpringBoot &#43; Koog &#43; Promptfoo example (2 months ago)
+- [kpavlov/koog-spring-boot-assistant](https://github.com/kpavlov/koog-spring-boot-assistant) - Kotlin &#43; SpringBoot &#43; Koog &#43; Promptfoo example (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.7.2](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.7.2), 2 days ago) - Quarkus Langchain4j extension
-- [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.10.1](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.10.1), 3 days ago) - This extension enables developers to implement the MCP server features easily.
-- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.8.4](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.8.4), 3 days ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
-- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) ([v0.3.1](https://github.com/Kotlin/kotlinx-schema/releases/tag/v0.3.1), 1 week ago) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization.
+- [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) ([v0.3.2](https://github.com/kpavlov/ksp-maven-plugin/releases/tag/v0.3.2), 1 day ago) - Kotlin Symbol Processor (KSP) Maven Plugin
+- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) ([v0.3.2](https://github.com/Kotlin/kotlinx-schema/releases/tag/v0.3.2), 1 day ago) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization.
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.7.3](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.7.3), 1 day ago) - Quarkus Langchain4j extension
+- [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.10.1](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.10.1), 4 days ago) - This extension enables developers to implement the MCP server features easily.
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.8.4](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.8.4), 4 days ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
 - [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.11.0](https://github.com/langchain4j/langchain4j/releases/tag/1.11.0), 2 weeks ago) - LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.
-- [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) ([v0.3.0](https://github.com/kpavlov/ksp-maven-plugin/releases/tag/v0.3.0), 3 weeks ago) - Kotlin Symbol Processor (KSP) Maven Plugin
 - [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) ([v0.6.2](https://github.com/mokksy/ai-mocks/releases/tag/v0.6.2), 3 months ago) - AI-Mocks is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support.
 
 #### 📜 My recent blog posts
