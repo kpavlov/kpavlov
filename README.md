@@ -19,21 +19,21 @@ val me = developer {
 
 #### 🌱 Check out what I'm currently working on
 
-- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - AI-Mocks is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support. (1 day ago)
-- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (2 days ago)
-- [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) - Kotlin Symbol Processor (KSP v2) Maven Plugin (4 days ago)
-- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization. (5 days ago)
+- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - AI-Mocks is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support. (2 days ago)
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (3 days ago)
+- [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) - Kotlin Symbol Processor (KSP v2) Maven Plugin (5 days ago)
+- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization. (6 days ago)
 - [json-schema-org/JSON-Schema-Test-Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) - A language agnostic test suite for the JSON Schema specifications (1 month ago)
-- [kpavlov/fixio](https://github.com/kpavlov/fixio) - FIX Protocol Support for Netty (1 month ago)
+- [kpavlov/fixio](https://github.com/kpavlov/fixio) - FIX Protocol Support for Netty (2 months ago)
 - [kpavlov/koog-spring-boot-assistant](https://github.com/kpavlov/koog-spring-boot-assistant) - Kotlin &#43; SpringBoot &#43; Koog &#43; Promptfoo example (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) ([v0.7.2](https://github.com/mokksy/ai-mocks/releases/tag/v0.7.2), 1 day ago) - AI-Mocks is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support.
-- [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.10.2](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.10.2), 1 day ago) - This extension enables developers to implement the MCP server features easily.
-- [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) ([v0.4.0](https://github.com/kpavlov/ksp-maven-plugin/releases/tag/v0.4.0), 4 days ago) - Kotlin Symbol Processor (KSP v2) Maven Plugin
-- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.7.4](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.7.4), 4 days ago) - Quarkus Langchain4j extension
-- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) ([v0.3.2](https://github.com/Kotlin/kotlinx-schema/releases/tag/v0.3.2), 5 days ago) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization.
+- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) ([v0.7.2](https://github.com/mokksy/ai-mocks/releases/tag/v0.7.2), 2 days ago) - AI-Mocks is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support.
+- [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.10.2](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.10.2), 2 days ago) - This extension enables developers to implement the MCP server features easily.
+- [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) ([v0.4.0](https://github.com/kpavlov/ksp-maven-plugin/releases/tag/v0.4.0), 5 days ago) - Kotlin Symbol Processor (KSP v2) Maven Plugin
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.7.4](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.7.4), 5 days ago) - Quarkus Langchain4j extension
+- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) ([v0.3.2](https://github.com/Kotlin/kotlinx-schema/releases/tag/v0.3.2), 6 days ago) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization.
 - [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.8.4](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.8.4), 1 week ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
 - [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.11.0](https://github.com/langchain4j/langchain4j/releases/tag/1.11.0), 3 weeks ago) - LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.
 
