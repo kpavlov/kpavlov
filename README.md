@@ -19,27 +19,27 @@ val me = developer {
 
 #### 🌱 Check out what I'm currently working on
 
-- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - AI-Mocks is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support. (1 day ago)
-- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization. (3 days ago)
-- [kpavlov/kmons](https://github.com/kpavlov/kmons) - Missing pieces of Kotlin puzzle 🧩 (3 days ago)
-- [mokksy/mokksy](https://github.com/mokksy/mokksy) - Mokksy is a mock HTTP server built with Kotlin and Ktor (4 days ago)
-- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (5 days ago)
+- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization. (1 day ago)
+- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - AI-Mocks is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support. (2 days ago)
+- [mokksy/mokksy](https://github.com/mokksy/mokksy) - Mokksy is a mock HTTP server built with Kotlin and Ktor (2 days ago)
+- [kpavlov/kmons](https://github.com/kpavlov/kmons) - Missing pieces of Kotlin puzzle 🧩 (4 days ago)
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (6 days ago)
 - [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) - Kotlin Symbol Processor (KSP v2) Maven Plugin (2 weeks ago)
 - [json-schema-org/JSON-Schema-Test-Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) - A language agnostic test suite for the JSON Schema specifications (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.8.0.CR1](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.8.0.CR1), 3 days ago) - Quarkus Langchain4j extension
-- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.12.1](https://github.com/langchain4j/langchain4j/releases/tag/1.12.1), 4 days ago) - LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.
-- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.9.0](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.9.0), 4 days ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
-- [mokksy/mokksy](https://github.com/mokksy/mokksy) ([v0.8.1](https://github.com/mokksy/mokksy/releases/tag/v0.8.1), 5 days ago) - Mokksy is a mock HTTP server built with Kotlin and Ktor
-- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) ([v0.7.2](https://github.com/mokksy/ai-mocks/releases/tag/v0.7.2), 1 week ago) - AI-Mocks is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support.
-- [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.10.2](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.10.2), 1 week ago) - This extension enables developers to implement the MCP server features easily.
-- [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) ([v0.4.0](https://github.com/kpavlov/ksp-maven-plugin/releases/tag/v0.4.0), 2 weeks ago) - Kotlin Symbol Processor (KSP v2) Maven Plugin
+- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) ([v0.4.0](https://github.com/Kotlin/kotlinx-schema/releases/tag/v0.4.0), 1 day ago) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization.
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.8.0.CR1](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.8.0.CR1), 4 days ago) - Quarkus Langchain4j extension
+- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.12.1](https://github.com/langchain4j/langchain4j/releases/tag/1.12.1), 5 days ago) - LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.9.0](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.9.0), 5 days ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
+- [mokksy/mokksy](https://github.com/mokksy/mokksy) ([v0.8.1](https://github.com/mokksy/mokksy/releases/tag/v0.8.1), 6 days ago) - Mokksy is a mock HTTP server built with Kotlin and Ktor
+- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) ([v0.7.2](https://github.com/mokksy/ai-mocks/releases/tag/v0.7.2), 2 weeks ago) - AI-Mocks is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support.
+- [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.10.2](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.10.2), 2 weeks ago) - This extension enables developers to implement the MCP server features easily.
 
 #### 📜 My recent blog posts
 
-- [Large files in Kotlin: causes, trade-offs, and practical remedies](https://kpavlov.me/blog/kotlin-large-files/) (5 days ago)
+- [Large files in Kotlin: causes, trade-offs, and practical remedies](https://kpavlov.me/blog/kotlin-large-files/) (6 days ago)
 - [Mokksy: a mock server that actually streams — and why your AI app needs integration tests](https://kpavlov.me/blog/mokksy/) (1 week ago)
 - [Open source deserves better than &#39;Move Fast&#39;](https://kpavlov.me/blog/open-source-mindset/) (4 weeks ago)
 - [Introducing Kotlinx-schema: generate JSON Schema from Kotlin types and functions](https://kpavlov.me/blog/kotlinx-schema/) (1 month ago)
