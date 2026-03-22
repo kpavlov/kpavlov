@@ -19,18 +19,18 @@ val me = developer {
 
 #### 🌱 Check out what I'm currently working on
 
-- [kpavlov/javable](https://github.com/kpavlov/javable) - Kotlin-Java interoperability wrapper generators (1 day ago)
-- [Kotlin/kotlinx-knit](https://github.com/Kotlin/kotlinx-knit) - Kotlin source code documentation management tool (2 days ago)
-- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (2 days ago)
-- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization. (3 days ago)
-- [mokksy/mokksy](https://github.com/mokksy/mokksy) - Mokksy is a mock HTTP server built with Kotlin and Ktor (3 days ago)
+- [kpavlov/javable](https://github.com/kpavlov/javable) - Kotlin-Java interoperability wrapper generators (2 days ago)
+- [Kotlin/kotlinx-knit](https://github.com/Kotlin/kotlinx-knit) - Kotlin source code documentation management tool (3 days ago)
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (3 days ago)
+- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization. (4 days ago)
+- [mokksy/mokksy](https://github.com/mokksy/mokksy) - Mokksy is a mock HTTP server built with Kotlin and Ktor (4 days ago)
 - [kpavlov/kmons](https://github.com/kpavlov/kmons) - Missing pieces of Kotlin puzzle 🧩 (1 week ago)
-- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - AI-Mocks is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support. (1 week ago)
+- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - AI-Mocks is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.8.2](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.8.2), 2 days ago) - Quarkus Langchain4j extension
-- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) ([v0.4.4](https://github.com/Kotlin/kotlinx-schema/releases/tag/v0.4.4), 3 days ago) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization.
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.8.2](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.8.2), 3 days ago) - Quarkus Langchain4j extension
+- [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) ([v0.4.4](https://github.com/Kotlin/kotlinx-schema/releases/tag/v0.4.4), 4 days ago) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization.
 - [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.12.2](https://github.com/langchain4j/langchain4j/releases/tag/1.12.2), 1 week ago) - LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.
 - [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.10.3](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.10.3), 1 week ago) - This extension enables developers to implement the MCP server features easily.
 - [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.9.0](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.9.0), 2 weeks ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
@@ -39,13 +39,13 @@ val me = developer {
 
 #### 📜 My recent blog posts
 
-- [kotlinx-schema: Three Ways to Generate JSON Schemas from Kotlin Code](https://kpavlov.me/blog/kotlinx-schema/) (3 days ago)
+- [Javable: generate Java-friendly wrappers for Kotlin with KSP](https://kpavlov.me/blog/javable/) (1 day ago)
+- [kotlinx-schema: Three Ways to Generate JSON Schemas from Kotlin Code](https://kpavlov.me/blog/kotlinx-schema/) (4 days ago)
 - [Large files in Kotlin: causes, trade-offs, and practical remedies](https://kpavlov.me/blog/kotlin-large-files/) (2 weeks ago)
 - [Mokksy: a mock server that actually streams — and why your AI app needs integration tests](https://kpavlov.me/blog/mokksy/) (3 weeks ago)
 - [Open source deserves better than &#39;Move Fast&#39;](https://kpavlov.me/blog/open-source-mindset/) (1 month ago)
 - [Introducing Kotlinx-schema: generate JSON Schema from Kotlin types and functions](https://kpavlov.me/blog/kotlinx-schema/) (1 month ago)
 - [Weekend hack: Kotlin Symbol Processing Maven plugin](https://kpavlov.me/blog/ksp-maven-plugin/) (4 months ago)
-- [The cookie story: when build failures became sweet accountability](https://kpavlov.me/blog/the-cookie-story/) (8 months ago)
 
 #### 👯 Check out some of my recent followers
 
