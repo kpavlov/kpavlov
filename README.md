@@ -5,10 +5,14 @@
 val me = developer {
     about {
         name = "Konstantin Pavlov"
-        company = "JetBrains"
-        role = "Technical Lead"
+        focus = "Production AI on the JVM — Kotlin, Java, Spring"
+        location = "Tallinn, Estonia"
     }
-    tech("Kotlin", "Java", "Spring", "AI", "Koog", "Swift", "iOS")
+    tech("Kotlin", "Java", "Spring", "AI", "MCP", "Swift", "iOS")
+    openSource {
+        maintains("mokksy.dev", "LangChain4j Kotlin extensions")
+        contributesTo("Kotlin/kotlinx-schema", "JetBrains/koog", "modelcontextprotocol/kotlin-sdk")
+    }
     links {
         linkedin = "https://linkedin.com/in/kpavlov"
         blog = "https://kpavlov.me"
@@ -47,13 +51,4 @@ val me = developer {
 - [Open source deserves better than &#39;Move Fast&#39;](https://kpavlov.me/blog/open-source-mindset/) (2 months ago)
 - [Introducing Kotlinx-schema: generate JSON Schema from Kotlin types and functions](https://kpavlov.me/blog/kotlinx-schema/) (2 months ago)
 
-#### 👯 Check out some of my recent followers
-
-- [CelaDaniel](https://github.com/CelaDaniel)
-- [mymx2](https://github.com/mymx2)
-- [TheRealAWebb](https://github.com/TheRealAWebb)
-- [whyoleg](https://github.com/whyoleg)
-- [arunponnappan](https://github.com/arunponnappan)
-- [amichne](https://github.com/amichne)
-- [adelburieva](https://github.com/adelburieva)
 
