@@ -18,10 +18,14 @@ Here are some ideas to get you started:
 val me = developer {
     about {
         name = "Konstantin Pavlov"
-        company = "JetBrains"
-        role = "Technical Lead"
+        focus = "Production AI on the JVM — Kotlin, Java, Spring"
+        location = "Tallinn, Estonia"
     }
-    tech("Kotlin", "Java", "Spring", "AI", "Koog", "Swift", "iOS")
+    tech("Kotlin", "Java", "Spring", "AI", "MCP", "Swift", "iOS")
+    openSource {
+        maintains("mokksy.dev", "LangChain4j Kotlin extensions")
+        contributesTo("Kotlin/kotlinx-schema", "JetBrains/koog", "modelcontextprotocol/kotlin-sdk")
+    }
     links {
         linkedin = "https://linkedin.com/in/kpavlov"
         blog = "https://kpavlov.me"
@@ -45,8 +49,4 @@ val me = developer {
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### 👯 Check out some of my recent followers
-{{range followers 7}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
 
