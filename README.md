@@ -26,16 +26,16 @@ val me = developer {
 - [mokksy/mokksy](https://github.com/mokksy/mokksy) - Mokksy is advanced mock HTTP server built for testing applications using modern streaming APIs. Built for Java, Kotlin, and beyond. (1 day ago)
 - [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) - Kotlin Symbol Processor (KSP v2) Maven Plugin (1 week ago)
 - [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization. (3 weeks ago)
-- [mokksy/mokksy.dev](https://github.com/mokksy/mokksy.dev) - mokksy.dev website (3 weeks ago)
-- [mokksy/.github](https://github.com/mokksy/.github) - Mock HTTP and AI/LLM implementations, inspired by wiremock and mockito (4 weeks ago)
+- [mokksy/mokksy.dev](https://github.com/mokksy/mokksy.dev) - mokksy.dev website (4 weeks ago)
+- [mokksy/.github](https://github.com/mokksy/.github) - Mock HTTP and AI/LLM implementations, inspired by wiremock and mockito (1 month ago)
 - [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains (1 month ago)
 - [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - AI-Mocks is a Kotlin-based mock server toolkit that brings service virtualization to both HTTP/SSE and LLM APIs — think WireMock meets local OpenAI/Anthropic/Gemini/A2A testing, but with real streaming and Server-Sent Events support. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.14.0](https://github.com/langchain4j/langchain4j/releases/tag/1.14.0), 2 days ago) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.
-- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.9.2](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.9.2), 2 days ago) - Quarkus Langchain4j extension
-- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.12.0](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.12.0), 3 days ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
+- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.14.0](https://github.com/langchain4j/langchain4j/releases/tag/1.14.0), 3 days ago) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.9.2](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.9.2), 3 days ago) - Quarkus Langchain4j extension
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.12.0](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.12.0), 4 days ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
 - [ktorio/ktor](https://github.com/ktorio/ktor) ([3.4.3](https://github.com/ktorio/ktor/releases/tag/3.4.3), 1 week ago) - Framework for quickly creating connected applications in Kotlin with minimal effort
 - [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) ([v0.4.1](https://github.com/kpavlov/ksp-maven-plugin/releases/tag/v0.4.1), 1 week ago) - Kotlin Symbol Processor (KSP v2) Maven Plugin
 - [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.12.0](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.12.0), 1 week ago) - This extension enables developers to implement the MCP server features easily.
@@ -44,7 +44,7 @@ val me = developer {
 #### 📜 My recent blog posts
 
 - [Higher-Order Attacks on AI Code Agents](https://kpavlov.me/blog/agent-higher-order-attacks/) (3 weeks ago)
-- [When Your AI Code Agent Becomes an RCE Engine](https://kpavlov.me/blog/agent-prompt-injection-basics/) (3 weeks ago)
+- [When Your AI Code Agent Becomes an RCE Engine](https://kpavlov.me/blog/agent-prompt-injection-basics/) (4 weeks ago)
 - [Javable: generate Java-friendly wrappers for Kotlin with KSP](https://kpavlov.me/blog/javable/) (1 month ago)
 - [kotlinx-schema: Three Ways to Generate JSON Schemas from Kotlin Code](https://kpavlov.me/blog/kotlinx-schema/) (1 month ago)
 - [Mokksy: a mock server that actually streams — and why your AI app needs integration tests](https://kpavlov.me/blog/mokksy/) (2 months ago)
