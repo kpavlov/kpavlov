@@ -23,7 +23,7 @@ val me = developer {
 
 #### 🌱 Check out what I'm currently working on
 
-- [mokksy/mokksy](https://github.com/mokksy/mokksy) - Mokksy is advanced mock HTTP server built for testing applications using modern streaming APIs. Built for Java, Kotlin, and beyond. (5 days ago)
+- [mokksy/mokksy](https://github.com/mokksy/mokksy) - Mokksy is advanced mock HTTP server built for testing applications using modern streaming APIs. Built for Java, Kotlin, and beyond. (6 days ago)
 - [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) - Kotlin Symbol Processor (KSP v2) Maven Plugin (2 weeks ago)
 - [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization. (1 month ago)
 - [mokksy/mokksy.dev](https://github.com/mokksy/mokksy.dev) - mokksy.dev website (1 month ago)
@@ -33,8 +33,8 @@ val me = developer {
 
 #### 🔭 Latest releases I've contributed to
 
-- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.10.0.CR2](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.10.0.CR2), 2 days ago) - Quarkus Langchain4j extension
-- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.14.1](https://github.com/langchain4j/langchain4j/releases/tag/1.14.1), 2 days ago) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.10.0.CR2](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.10.0.CR2), 3 days ago) - Quarkus Langchain4j extension
+- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.14.1](https://github.com/langchain4j/langchain4j/releases/tag/1.14.1), 3 days ago) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.
 - [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.12.0](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.12.0), 1 week ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
 - [ktorio/ktor](https://github.com/ktorio/ktor) ([3.4.3](https://github.com/ktorio/ktor/releases/tag/3.4.3), 2 weeks ago) - Framework for quickly creating connected applications in Kotlin with minimal effort
 - [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) ([v0.4.1](https://github.com/kpavlov/ksp-maven-plugin/releases/tag/v0.4.1), 2 weeks ago) - Kotlin Symbol Processor (KSP v2) Maven Plugin
@@ -48,7 +48,7 @@ val me = developer {
 - [Javable: generate Java-friendly wrappers for Kotlin with KSP](https://kpavlov.me/blog/javable/) (1 month ago)
 - [kotlinx-schema: Three Ways to Generate JSON Schemas from Kotlin Code](https://kpavlov.me/blog/kotlinx-schema/) (1 month ago)
 - [Mokksy: a mock server that actually streams — and why your AI app needs integration tests](https://kpavlov.me/blog/mokksy/) (2 months ago)
-- [Open source deserves better than &#39;Move Fast&#39;](https://kpavlov.me/blog/open-source-mindset/) (2 months ago)
+- [Open source deserves better than &#39;Move Fast&#39;](https://kpavlov.me/blog/open-source-mindset/) (3 months ago)
 - [Introducing Kotlinx-schema: generate JSON Schema from Kotlin types and functions](https://kpavlov.me/blog/kotlinx-schema/) (3 months ago)
 
 
