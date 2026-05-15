@@ -23,7 +23,7 @@ val me = developer {
 
 #### 🌱 Check out what I'm currently working on
 
-- [kpavlov/gradle-kotlin-kmp-library-template](https://github.com/kpavlov/gradle-kotlin-kmp-library-template) - Kotlin Multiplatform Library Template (2 days ago)
+- [kpavlov/gradle-kotlin-kmp-library-template](https://github.com/kpavlov/gradle-kotlin-kmp-library-template) - Kotlin Multiplatform Library Template (3 days ago)
 - [mokksy/mokksy](https://github.com/mokksy/mokksy) - Mokksy is advanced mock HTTP server built for testing applications using modern streaming APIs. Built for Java, Kotlin, and beyond. (1 week ago)
 - [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) - Kotlin Symbol Processor (KSP v2) Maven Plugin (3 weeks ago)
 - [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization. (1 month ago)
@@ -33,8 +33,8 @@ val me = developer {
 
 #### 🔭 Latest releases I've contributed to
 
-- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.10.0](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.10.0), 1 day ago) - Quarkus Langchain4j extension
-- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.11.7](https://github.com/langchain4j/langchain4j/releases/tag/1.11.7), 3 days ago) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.10.0](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.10.0), 2 days ago) - Quarkus Langchain4j extension
+- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.11.7](https://github.com/langchain4j/langchain4j/releases/tag/1.11.7), 4 days ago) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.
 - [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.12.0](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.12.0), 2 weeks ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
 - [ktorio/ktor](https://github.com/ktorio/ktor) ([3.4.3](https://github.com/ktorio/ktor/releases/tag/3.4.3), 3 weeks ago) - Framework for quickly creating connected applications in Kotlin with minimal effort
 - [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) ([v0.4.1](https://github.com/kpavlov/ksp-maven-plugin/releases/tag/v0.4.1), 3 weeks ago) - Kotlin Symbol Processor (KSP v2) Maven Plugin
