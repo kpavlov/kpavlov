@@ -23,8 +23,8 @@ val me = developer {
 
 #### 🌱 Check out what I'm currently working on
 
-- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - 🤖 AI-Mocks is a Kotlin-based toolkit for mocking and testing LLM APIs with real streaming and SSE support. Simulate OpenAI, Anthropic, Gemini, Ollama, and A2A services locally for reliable integration testing. (1 day ago)
-- [mokksy/mokksy](https://github.com/mokksy/mokksy) - ⚡ Mokksy is a mock HTTP server for testing and simulating real-world API behavior, including streaming, SSE, delays, and failures. Built for Kotlin, Java, and modern distributed systems. (2 days ago)
+- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - 🤖 AI-Mocks is a Kotlin-based toolkit for mocking and testing LLM APIs with real streaming and SSE support. Simulate OpenAI, Anthropic, Gemini, Ollama, and A2A services locally for reliable integration testing. (2 days ago)
+- [mokksy/mokksy](https://github.com/mokksy/mokksy) - ⚡ Mokksy is a mock HTTP server for testing and simulating real-world API behavior, including streaming, SSE, delays, and failures. Built for Kotlin, Java, and modern distributed systems. (3 days ago)
 - [kpavlov/gradle-kotlin-kmp-library-template](https://github.com/kpavlov/gradle-kotlin-kmp-library-template) - Kotlin Multiplatform Library Template (1 week ago)
 - [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) - Kotlin Symbol Processor (KSP v2) Maven Plugin (3 weeks ago)
 - [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema) - Kotlin Multiplatform library that generates JSON Schemas from your methods and classes both at compile-time via Kotlin Symbol Processing(KSP) and at runtime via reflection or kotlinx.serialization. (1 month ago)
@@ -33,19 +33,19 @@ val me = developer {
 
 #### 🔭 Latest releases I've contributed to
 
-- [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.12.1](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.12.1), 1 day ago) - This extension enables developers to implement the MCP server features easily.
-- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) ([v0.8.1](https://github.com/mokksy/ai-mocks/releases/tag/v0.8.1), 1 day ago) - 🤖 AI-Mocks is a Kotlin-based toolkit for mocking and testing LLM APIs with real streaming and SSE support. Simulate OpenAI, Anthropic, Gemini, Ollama, and A2A services locally for reliable integration testing.
-- [ktorio/ktor](https://github.com/ktorio/ktor) ([3.5.0](https://github.com/ktorio/ktor/releases/tag/3.5.0), 1 day ago) - Framework for quickly creating connected applications in Kotlin with minimal effort
-- [JetBrains/koog](https://github.com/JetBrains/koog) ([1.0.0-preview](https://github.com/JetBrains/koog/releases/tag/1.0.0-preview), 2 days ago) - Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
-- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.15.0](https://github.com/langchain4j/langchain4j/releases/tag/1.15.0), 4 days ago) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.
-- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.10.0](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.10.0), 6 days ago) - Quarkus Langchain4j extension
-- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.12.0](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.12.0), 2 weeks ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
+- [JetBrains/koog](https://github.com/JetBrains/koog) ([1.0.0-preview2](https://github.com/JetBrains/koog/releases/tag/1.0.0-preview2), 1 day ago) - Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
+- [quarkiverse/quarkus-mcp-server](https://github.com/quarkiverse/quarkus-mcp-server) ([1.12.1](https://github.com/quarkiverse/quarkus-mcp-server/releases/tag/1.12.1), 2 days ago) - This extension enables developers to implement the MCP server features easily.
+- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) ([v0.8.1](https://github.com/mokksy/ai-mocks/releases/tag/v0.8.1), 2 days ago) - 🤖 AI-Mocks is a Kotlin-based toolkit for mocking and testing LLM APIs with real streaming and SSE support. Simulate OpenAI, Anthropic, Gemini, Ollama, and A2A services locally for reliable integration testing.
+- [ktorio/ktor](https://github.com/ktorio/ktor) ([3.5.0](https://github.com/ktorio/ktor/releases/tag/3.5.0), 2 days ago) - Framework for quickly creating connected applications in Kotlin with minimal effort
+- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.15.0](https://github.com/langchain4j/langchain4j/releases/tag/1.15.0), 5 days ago) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.
+- [quarkiverse/quarkus-langchain4j](https://github.com/quarkiverse/quarkus-langchain4j) ([1.10.0](https://github.com/quarkiverse/quarkus-langchain4j/releases/tag/1.10.0), 1 week ago) - Quarkus Langchain4j extension
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.12.0](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.12.0), 3 weeks ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
 
 #### 📜 My recent blog posts
 
 - [Higher-Order Attacks on AI Code Agents](https://kpavlov.me/blog/agent-higher-order-attacks/) (1 month ago)
 - [When Your AI Code Agent Becomes an RCE Engine](https://kpavlov.me/blog/agent-prompt-injection-basics/) (1 month ago)
-- [Javable: generate Java-friendly wrappers for Kotlin with KSP](https://kpavlov.me/blog/javable/) (1 month ago)
+- [Javable: generate Java-friendly wrappers for Kotlin with KSP](https://kpavlov.me/blog/javable/) (2 months ago)
 - [kotlinx-schema: Three Ways to Generate JSON Schemas from Kotlin Code](https://kpavlov.me/blog/kotlinx-schema/) (2 months ago)
 - [Mokksy: a mock server that actually streams — and why your AI app needs integration tests](https://kpavlov.me/blog/mokksy/) (2 months ago)
 - [Open source deserves better than &#39;Move Fast&#39;](https://kpavlov.me/blog/open-source-mindset/) (3 months ago)
