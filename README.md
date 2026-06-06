@@ -23,9 +23,9 @@ val me = developer {
 
 #### 🌱 Check out what I'm currently working on
 
-- [kpavlov/kmons](https://github.com/kpavlov/kmons) - Missing pieces of Kotlin puzzle 🧩 (2 days ago)
-- [mokksy/mokksy.dev](https://github.com/mokksy/mokksy.dev) - mokksy.dev website (6 days ago)
-- [mokksy/mokksy](https://github.com/mokksy/mokksy) - ⚡ Mokksy is a mock HTTP server for testing and simulating real-world API behavior, including streaming, SSE, delays, and failures. Built for Kotlin, Java, and modern distributed systems. (6 days ago)
+- [mokksy/mokksy](https://github.com/mokksy/mokksy) - ⚡ Mokksy is a mock HTTP server for testing and simulating real-world API behavior, including streaming, SSE, delays, and failures. Built for Kotlin, Java, and modern distributed systems. (1 day ago)
+- [kpavlov/kmons](https://github.com/kpavlov/kmons) - Missing pieces of Kotlin puzzle 🧩 (3 days ago)
+- [mokksy/mokksy.dev](https://github.com/mokksy/mokksy.dev) - mokksy.dev website (1 week ago)
 - [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) - Kotlin Symbol Processor (KSP v2) Maven Plugin (1 week ago)
 - [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - 🤖 AI-Mocks is a Kotlin-based toolkit for mocking and testing LLM APIs with real streaming and SSE support. Simulate OpenAI, Anthropic, Gemini, Ollama, and A2A services locally for reliable integration testing. (1 week ago)
 - [mokksy/.github](https://github.com/mokksy/.github) - Mock HTTP and AI/LLM implementations, inspired by wiremock and mockito (1 week ago)
@@ -33,8 +33,8 @@ val me = developer {
 
 #### 🔭 Latest releases I've contributed to
 
-- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.13.0](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.13.0), 3 days ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
-- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.15.1](https://github.com/langchain4j/langchain4j/releases/tag/1.15.1), 1 week ago) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.
+- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.16.0](https://github.com/langchain4j/langchain4j/releases/tag/1.16.0), 1 day ago) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.
+- [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.13.0](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.13.0), 4 days ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
 - [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) ([v0.4.5](https://github.com/kpavlov/ksp-maven-plugin/releases/tag/v0.4.5), 1 week ago) - Kotlin Symbol Processor (KSP v2) Maven Plugin
 - [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) ([v0.8.2](https://github.com/mokksy/ai-mocks/releases/tag/v0.8.2), 1 week ago) - 🤖 AI-Mocks is a Kotlin-based toolkit for mocking and testing LLM APIs with real streaming and SSE support. Simulate OpenAI, Anthropic, Gemini, Ollama, and A2A services locally for reliable integration testing.
 - [mokksy/mokksy](https://github.com/mokksy/mokksy) ([v0.10.2](https://github.com/mokksy/mokksy/releases/tag/v0.10.2), 1 week ago) - ⚡ Mokksy is a mock HTTP server for testing and simulating real-world API behavior, including streaming, SSE, delays, and failures. Built for Kotlin, Java, and modern distributed systems.
