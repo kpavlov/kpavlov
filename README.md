@@ -23,22 +23,22 @@ val me = developer {
 
 #### 🌱 Check out what I'm currently working on
 
-- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - 🤖 AI-Mocks is a Kotlin-based toolkit for mocking and testing LLM APIs with real streaming and SSE support. Simulate OpenAI, Anthropic, Gemini, Ollama, and A2A services locally for reliable integration testing. (3 days ago)
-- [mokksy/mokksy](https://github.com/mokksy/mokksy) - 🦊 Mokksy is a mock HTTP server for testing and simulating real-world API behavior, including streaming, SSE, delays, and failures. Built for Kotlin, Java, and modern distributed systems. (3 days ago)
-- [kpavlov/koog-spring-boot-assistant](https://github.com/kpavlov/koog-spring-boot-assistant) - Kotlin &#43; SpringBoot &#43; Koog &#43; Promptfoo example (4 days ago)
-- [kpavlov/koog-sauce](https://github.com/kpavlov/koog-sauce) - The finishing touch to JetBrains Koog (4 days ago)
+- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - 🤖 AI-Mocks is a Kotlin-based toolkit for mocking and testing LLM APIs with real streaming and SSE support. Simulate OpenAI, Anthropic, Gemini, Ollama, and A2A services locally for reliable integration testing. (4 days ago)
+- [mokksy/mokksy](https://github.com/mokksy/mokksy) - 🦊 Mokksy is a mock HTTP server for testing and simulating real-world API behavior, including streaming, SSE, delays, and failures. Built for Kotlin, Java, and modern distributed systems. (4 days ago)
+- [kpavlov/koog-spring-boot-assistant](https://github.com/kpavlov/koog-spring-boot-assistant) - Kotlin &#43; SpringBoot &#43; Koog &#43; Promptfoo example (5 days ago)
+- [kpavlov/koog-sauce](https://github.com/kpavlov/koog-sauce) - The finishing touch to JetBrains Koog (5 days ago)
 - [kpavlov/kmons](https://github.com/kpavlov/kmons) - Missing pieces of Kotlin puzzle 🧩 (1 week ago)
 - [mokksy/mokksy.dev](https://github.com/mokksy/mokksy.dev) - mokksy.dev website (1 week ago)
-- [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) - Kotlin Symbol Processor (KSP v2) Maven Plugin (1 week ago)
+- [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) - Kotlin Symbol Processor (KSP v2) Maven Plugin (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) ([v0.9.0](https://github.com/mokksy/ai-mocks/releases/tag/v0.9.0), 3 days ago) - 🤖 AI-Mocks is a Kotlin-based toolkit for mocking and testing LLM APIs with real streaming and SSE support. Simulate OpenAI, Anthropic, Gemini, Ollama, and A2A services locally for reliable integration testing.
-- [mokksy/mokksy](https://github.com/mokksy/mokksy) ([v0.11.0](https://github.com/mokksy/mokksy/releases/tag/v0.11.0), 3 days ago) - 🦊 Mokksy is a mock HTTP server for testing and simulating real-world API behavior, including streaming, SSE, delays, and failures. Built for Kotlin, Java, and modern distributed systems.
-- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.16.1](https://github.com/langchain4j/langchain4j/releases/tag/1.16.1), 4 days ago) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.
+- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.16.2](https://github.com/langchain4j/langchain4j/releases/tag/1.16.2), 1 day ago) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.
+- [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) ([v0.9.0](https://github.com/mokksy/ai-mocks/releases/tag/v0.9.0), 4 days ago) - 🤖 AI-Mocks is a Kotlin-based toolkit for mocking and testing LLM APIs with real streaming and SSE support. Simulate OpenAI, Anthropic, Gemini, Ollama, and A2A services locally for reliable integration testing.
+- [mokksy/mokksy](https://github.com/mokksy/mokksy) ([v0.11.0](https://github.com/mokksy/mokksy/releases/tag/v0.11.0), 4 days ago) - 🦊 Mokksy is a mock HTTP server for testing and simulating real-world API behavior, including streaming, SSE, delays, and failures. Built for Kotlin, Java, and modern distributed systems.
 - [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.13.0](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.13.0), 1 week ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
-- [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) ([v0.4.5](https://github.com/kpavlov/ksp-maven-plugin/releases/tag/v0.4.5), 1 week ago) - Kotlin Symbol Processor (KSP v2) Maven Plugin
-- [JetBrains/koog](https://github.com/JetBrains/koog) ([1.0.0](https://github.com/JetBrains/koog/releases/tag/1.0.0), 2 weeks ago) - Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
+- [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) ([v0.4.5](https://github.com/kpavlov/ksp-maven-plugin/releases/tag/v0.4.5), 2 weeks ago) - Kotlin Symbol Processor (KSP v2) Maven Plugin
+- [JetBrains/koog](https://github.com/JetBrains/koog) ([1.0.0](https://github.com/JetBrains/koog/releases/tag/1.0.0), 3 weeks ago) - Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
 - [ktorio/ktor](https://github.com/ktorio/ktor) ([3.5.0](https://github.com/ktorio/ktor/releases/tag/3.5.0), 3 weeks ago) - Framework for quickly creating connected applications in Kotlin with minimal effort
 
 #### 📜 My recent blog posts
