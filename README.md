@@ -23,17 +23,17 @@ val me = developer {
 
 #### 🌱 Check out what I'm currently working on
 
+- [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is a JVM (Java and Kotlin) framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems (1 day ago)
 - [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) - 🤖 AI-Mocks is a Kotlin-based toolkit for mocking and testing LLM APIs with real streaming and SSE support. Simulate OpenAI, Anthropic, Gemini, Ollama, and A2A services locally for reliable integration testing. (1 week ago)
 - [mokksy/mokksy](https://github.com/mokksy/mokksy) - 🦊 Mokksy is a mock HTTP server for testing and simulating real-world API behavior, including streaming, SSE, delays, and failures. Built for Kotlin, Java, and modern distributed systems. (1 week ago)
 - [kpavlov/koog-spring-boot-assistant](https://github.com/kpavlov/koog-spring-boot-assistant) - Kotlin &#43; SpringBoot &#43; Koog &#43; Promptfoo example (1 week ago)
 - [kpavlov/koog-sauce](https://github.com/kpavlov/koog-sauce) - The finishing touch to JetBrains Koog (1 week ago)
 - [kpavlov/kmons](https://github.com/kpavlov/kmons) - Missing pieces of Kotlin puzzle 🧩 (2 weeks ago)
 - [mokksy/mokksy.dev](https://github.com/mokksy/mokksy.dev) - mokksy.dev website (2 weeks ago)
-- [kpavlov/ksp-maven-plugin](https://github.com/kpavlov/ksp-maven-plugin) - Kotlin Symbol Processor (KSP v2) Maven Plugin (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.16.2](https://github.com/langchain4j/langchain4j/releases/tag/1.16.2), 1 week ago) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.
+- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) ([1.16.3](https://github.com/langchain4j/langchain4j/releases/tag/1.16.3), 1 day ago) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.
 - [mokksy/ai-mocks](https://github.com/mokksy/ai-mocks) ([v0.9.0](https://github.com/mokksy/ai-mocks/releases/tag/v0.9.0), 1 week ago) - 🤖 AI-Mocks is a Kotlin-based toolkit for mocking and testing LLM APIs with real streaming and SSE support. Simulate OpenAI, Anthropic, Gemini, Ollama, and A2A services locally for reliable integration testing.
 - [mokksy/mokksy](https://github.com/mokksy/mokksy) ([v0.11.0](https://github.com/mokksy/mokksy/releases/tag/v0.11.0), 1 week ago) - 🦊 Mokksy is a mock HTTP server for testing and simulating real-world API behavior, including streaming, SSE, delays, and failures. Built for Kotlin, Java, and modern distributed systems.
 - [modelcontextprotocol/kotlin-sdk](https://github.com/modelcontextprotocol/kotlin-sdk) ([0.13.0](https://github.com/modelcontextprotocol/kotlin-sdk/releases/tag/0.13.0), 2 weeks ago) - The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains
@@ -43,10 +43,10 @@ val me = developer {
 
 #### 📜 My recent blog posts
 
-- [Integration Testing on the JVM: My Ideal Process, End to End](https://kpavlov.me/blog/integration-testing-on-jvm/) (1 day ago)
+- [Integration Testing on the JVM: My Ideal Process, End to End](https://kpavlov.me/blog/integration-testing-on-jvm/) (2 days ago)
 - [Higher-Order Attacks on AI Code Agents](https://kpavlov.me/blog/agent-higher-order-attacks/) (2 months ago)
 - [When Your AI Code Agent Becomes an RCE Engine](https://kpavlov.me/blog/agent-prompt-injection-basics/) (2 months ago)
-- [Javable: generate Java-friendly wrappers for Kotlin with KSP](https://kpavlov.me/blog/javable/) (2 months ago)
+- [Javable: generate Java-friendly wrappers for Kotlin with KSP](https://kpavlov.me/blog/javable/) (3 months ago)
 - [kotlinx-schema: Three Ways to Generate JSON Schemas from Kotlin Code](https://kpavlov.me/blog/kotlinx-schema/) (3 months ago)
 - [Large files in Kotlin: causes, trade-offs, and practical remedies](https://kpavlov.me/blog/kotlin-large-files/) (3 months ago)
 - [Mokksy: a mock server that actually streams — and why your AI app needs integration tests](https://kpavlov.me/blog/mokksy/) (3 months ago)
